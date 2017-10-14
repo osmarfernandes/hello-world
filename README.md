@@ -1,2 +1,3 @@
 # hello-world
-New repository for tests
+Hi, there !
+How are you ?
